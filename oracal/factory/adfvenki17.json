@@ -1,0 +1,9 @@
+{
+	"name": "adfvenki17",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c59f4df0-c556-4aa3-af66-842cb5f59f7f",
+		"tenantId": "b13e9e74-d199-431d-9bbf-40021c860d11"
+	}
+}

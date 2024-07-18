@@ -1,0 +1,17 @@
+{
+	"name": "dsOracleTable",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "sqlOracle",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "OracleTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "HR",
+			"table": "EMPLOYEES"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
