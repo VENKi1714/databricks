@@ -1,0 +1,9 @@
+{
+	"name": "ADF-data-engineering-projects",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d871b08d-9bae-43cb-930f-4f7d8c30af39",
+		"tenantId": "d8bf5cde-2ec8-4cba-b669-e366d7a9189c"
+	}
+}
